@@ -45,3 +45,4 @@ Após essas configurações você pode rodar a aplicação no seu dispositivo.
 
 - Repare que dentro do pubspec.yaml a dependência **http** foi adicionada, ela é essêncial para que possam ser feitas chamadas HTTP em sua aplicação.
 
+- Seria muito interessante buscar sobre Providers e gerenciamento de estado. O projeto é simples e utiliza uma maneira simples de controlar o estado, funciona mas há maneiras melhores de controlar o estado da aplicação. Em projetos maiores e com persistência de dados e navegação entre divesas telas a necessidade de buscar maneiras diferentes de controlar o estado da sua aplicação é ainda maior.
