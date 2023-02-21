@@ -4,7 +4,7 @@
 
 Esse projeto possui objetivo de utilizar um "Realtime Database" do próprio Firebase, 
 assim simulando uma API Rest. Aqui conseguimos ver como funcionaria um CRUD simples 
-com Firebase.
+com Firebase. [Ver mais](https://docs.google.com/document/d/1E_oCLwBce2cJr-2hypeWVw5ujK7Pq5uSsCUjNxxDct0/edit?usp=sharing).
 
 ## Afinal, o que é Firebase?
 Firebase é um conjunto de serviços de hospedagem para qualquer tipo de aplicativo.Oferece NoSQL e hospedagem em tempo real de bancos de dados, conteúdo, autenticação social e notificações ou serviços, como um servidor de comunicação em tempo real.
